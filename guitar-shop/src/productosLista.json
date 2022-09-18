@@ -1,0 +1,63 @@
+{"productosLista":[
+    {
+        "id":"1",
+        "title": "Jackson Arrow",
+        "price":" 300" ,
+        "stock": "4", 
+        "initial": "1",
+        "img":"https://img.kytary.com/eshop_ie/velky_v2/na/637806076438200000/9b531421/64961487/esp-ltd-arrow-200-military-green-satin.jpg",
+        "category":"electric guitar",
+        "descripcion":"Jackson JS30KV King V Black w/Seymour Duncan SH4 Bridge PU Electric Guitar w/Bag Up for sale a Jackson JS30KV King V Black with Seymour Duncan SH4 Bridge Pickup Electric Guitar w/Bag - #04110289!  This beautiful instrument is a Used Model in Very Good Plus Cosmetic Condition and in Perfect Playing Condition.  On this one, there are some scratches, marks, dents, barely few tiny nicks, slight finish/wood imperfections and few other signs of wear here and there (see 13th to 24th pictures), but really nothing major. Unit comes in a Jackson Gig Bag."
+    },
+    {
+        "id":"2",
+        "title": "Fender Stratocaster",
+        "price":" 600" ,
+        "stock": "6", 
+        "initial": "1",
+        "img":"https://www.fmicassets.com/Damroot/ZoomJpg/10002/0140192305_gtr_frt_001_rr.jpg",
+        "category":"electric guitar",
+        "descripcion":"This is a 2003 Fender Classic Series 70s Stratocaster in 3 Tone Sunburst. These Classic Series models are very good guitars. They are all based on particular eras from Fenders history. This is 70s inspired so you get the bigger headstock, 70s tuners and the 3 bolt neck joint. These have rosewood boards which is great due to the new models being pau ferro. This one is in great condition. One laquer line as shown. Frets and electrics are in great shape."
+    },
+    {
+        "id":"3",
+        "title": "ESP LTD",
+        "price":" 700" ,
+        "stock": "8", 
+        "initial": "1",
+        "img":"https://cdn.shopify.com/s/files/1/0052/0326/3577/products/xlarge_e3d831a5-f536-4c33-8cdd-6b831e655c65_1600x.png?v=1545090501",
+        "category":"electric guitar",
+        "descripcion":"The LTD SN-200 is perfect for any player that appreciates traditional styling in a guitar, but needs more modern performance tools at their grasp, and wants it all at a very affordable price. These classic bolt-on designs are great for almost any style of music where great tone and smooth playability are important. The SN-200HT features a basswood body, maple neck, maple fingerboard with 24 extra-jumbo frets, an LTD fixed hardtail bridge with string-thru-body, and a set of high-output ESP Designed LH-150 pickups with coil-splitting on both pickups via push-pull control."
+    } ,
+    {
+        "id":"4",
+        "title": "Takamine Hirade & classical",
+        "price":" 900" ,
+        "stock": "3", 
+        "initial": "1",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_600097-MLA44198200586_112020-O.jpg",
+        "category":"acoustic & classical",
+        "descripcion":"Takamine EN-10 (1991) Speaking of electric-acoustic guitars that are popular all over the world, Takamine is proud of Japan !! Super rare guitar Takamine EN-10 sold overseas is in stock !! An orthodox dreadnought type with a simple look is a popular gem !! Probably not sold in Japan, only sold overseas The mahogany side back on the cedar top and the rose fingerboard on the mahogany neck. There are dents and scratches on the top, and the paint is peeled off by picking on the 1st string side of the sound hole. The neck condition is good and the rest of the frets is less than 70% in the part where there is a decrease, and there is no problem with the truss rod. There is no problem with preamplifiers, so you can use it immediately. A gem that you rarely see in Japan !! How are you looking for !!"
+
+    },
+    {
+        "id":"5",
+        "title": "Ovation Guitar Celebrity Elite Edition",
+        "price":" 1200" ,
+        "stock": "5", 
+        "initial": "1",
+        "img":"https://www.modernmusician.com.au/assets/full/CE44P-FKOA.png",
+        "category":"acoustic & classical",
+        "descripcion":"Ovation Celebrity Elite Limited Edition CE44-RRB Reverse Red Burst Genuine soft shell case  [Features]It is an entry model 'Celebrity' of the male 'Ovation' of the electric acoustic guitar Mid-Depth Bowl (Rilacord Body) electric acoustic guitar with cutaway. BODY TOP uses veneer spruce. TOP bracing adopts scalloped X bracing. Ovation fans have a nice 'multi-sound hole'. The Ovation Slimline pickup is mounted, and the preamp is equipped with a 3-band EQ and a convenient tuner function. Satin finish. 【Main Specifications】  -Body Specs Soundboard: Solid Sitka Spruce Bracing: Ovation X Bracin Body: Lyrachord® Design: Mid Depth  Binding: ABS Black -Neck Specs  Neck: Mahogany  Fretboard: Ovangkol Inlays: Abalone Frets: 23  Scale: 25.3 ″ / 643mm  Fretboard Radius: 10 ″ / 254mm  Nut: 1 11/16 ″ / 43mm -Hardwere Specs Bridge: Ovangkol Tuning Machines: Ovation Die-cast Chrome Strings: Bronze Light Gauge Preamp: OP-4CT  Pickup: CP-100 Case: Softcase Tuning Machines Chrome"
+    },
+    {
+        "id":"6",
+        "title": "Cordoba Guitar C4-CE",
+        "price":" 1300" ,
+        "stock": "9", 
+        "initial": "1",
+        "img":"https://sc1.musik-produktiv.com/pic-010109385xxl/cordoba-c4-ce.jpg",
+        "category":"acoustic & classical",
+        "descripcion":"Top: Solid mahogany, back & side: mahogany, bindings: Maple ■ Bridge: Per Fellow, Rosetta: Avalon & black / white ABS, finish: satin polyurethane ■ neck: mahogany, finger board: Per Fellow, truss rod: Dual action ■ pincushion: Cordoba Gold with Pearl Buttons, scale: 650mm, nut width: 50mm, the number of frets: 19 ■ pickup system: Fishman Sonitone Classical, accessories bag: Cordoba Gig bag ■ handedness: right-handed"
+    }
+]}
