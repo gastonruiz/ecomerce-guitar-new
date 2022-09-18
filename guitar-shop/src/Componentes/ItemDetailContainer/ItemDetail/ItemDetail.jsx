@@ -1,17 +1,23 @@
 import React from "react";
 import ItemCount from "../../ItemCount/ItemCount";
-
-
+import { Link } from "react-router-dom";
+import { useContext } from "react";
+import { CartContext } from "../../../Context/CartContext";
+import { Context } from "react";
 
 
 
 const ItemDetail = ({ Item , stock, title, price, id}) => {
   
+ let { addItem } = Context = useContext( CartContext );
+  
+  
   const onAdd = (cuenta) => {
+    
     
     alert(`Agregaste ${cuenta} articulos al carrito`);
 
-    
+    addItem(Item, cuenta)
   
   };
 
@@ -50,26 +56,19 @@ const ItemDetail = ({ Item , stock, title, price, id}) => {
     
     Stock disponible {stock}
     </p>
+    
     <div className="bg-gray-700 rounded">
-        <ItemCount initial={1} stock={stock} onAdd={onAdd} />
-        </div>
-
-
-
-
-
+    
+    <ItemCount initial={1} stock={8} onAdd={onAdd} /> 
+    <div className="text-center text-2xl  text-neutral-500">
+<Link to = "/cart"><button >Finalizar compra</button> </Link>
+</div>
     </div>
 
 
 
-      <p className="text-gray-700 text-base">Stock disponible {stock}</p>
+    </div>
       
-      <div className="bg-gray-700 rounded">
-        <div>Añadido</div>
-        
-       
-      </div>
-      <button>Finalizar compra</button>
     </div>
   
     
