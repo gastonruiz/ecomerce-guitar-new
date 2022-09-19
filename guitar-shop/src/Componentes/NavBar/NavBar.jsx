@@ -24,13 +24,13 @@ export default function NavBar() {
                     Home
                 </span>
             </Link>
-            <Link to={'/categoryid'}>
+            <Link to={'/category/1'}>
                 <span className="ml-4 hover:text-pink-600" >
                 Electric
               
                 </span>
             </Link>
-            <Link to={'/categoryid'}>
+            <Link to={'/category/2'}>
                 <span className="ml-4 hover:text-pink-600" >
                 Acoustic
                 </span>

@@ -1,9 +1,13 @@
 import React from "react";
 import ItemList from "./ItemList/ItemList";
 import dataLista from '../../productosLista.json'
+
+
 const ItemListContainer = (props) => {
 
+
 const {productosLista} = dataLista
+
 
   return (
     <>
@@ -20,3 +24,4 @@ const {productosLista} = dataLista
 };
 
 export default ItemListContainer;
+
